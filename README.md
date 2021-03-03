@@ -3,8 +3,8 @@
 ## Meu nome é Renato Vinícius :sunglasses:
 
 
-- 🔭 I’m currently working on FreeLancer
-- 🌱 I’m currently learning Flask-Python and C#
+- 🔭 Atualmente estou trabalhando como Analista de Planejamento.
+- 🌱 Estou estudando desenvolvimento web back-end com Flask-Python and .DOTNET-C#
 
 ## Tecnologias que conheço e estou evoluindo
 ...
