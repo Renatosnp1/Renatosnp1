@@ -1,4 +1,4 @@
-# Seja Bem Vindo ao Meu repositório :star:
+# Seja Bem Vindo ao Meu Repositório :star:
 
 ## Meu nome é Renato Vinícius :sunglasses:
 
