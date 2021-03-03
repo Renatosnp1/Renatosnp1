@@ -3,9 +3,11 @@
 ## Meu nome é Renato Vinícius :sunglasses:
 
 
+- 🔭 I’m currently working on FreeLancer
+- 🌱 I’m currently learning Flask-Python and C#
 
-
-
+## Tecnologias que conheço e estou evoluindo
+...
 
 
 
@@ -14,8 +16,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on FreeLancer
+- 🌱 I’m currently learning Flask-Python and C#
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
